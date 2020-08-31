@@ -7,6 +7,4 @@ This repo is dedicated to resources, notes and tips for Security certifications 
 * CompTIA Security+
 * ISC2 CISSP
 
-There will be a separate md file for each certification, tools in general and frequently used ports.
-
 
