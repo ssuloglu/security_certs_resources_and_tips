@@ -3,6 +3,10 @@
 # Overview
 This is a collection of tools and references that are beneficial during my journey to cybersecurity. Note that it is an evolving list.
 
+## Converters
+* [Decimal to Hexadecimal](https://www.binaryhexconverter.com/decimal-to-hex-converter)
+* [Hexadecimal to Decimal](https://www.binaryhexconverter.com/hex-to-decimal-converter)
+
 ## Vulnerabilities 
 * [Common Vulnerabilities and Exposures - CVE](https://cve.mitre.org/) by MITRE 
 * [Common Weakness Enumeration - CWE](https://cwe.mitre.org/) by MITRE
@@ -61,3 +65,4 @@ This is a collection of tools and references that are beneficial during my journ
 * Sysinternals
 * Bash Scripting
 * Powershell
+* [Wireshark](https://www.wireshark.org/)
