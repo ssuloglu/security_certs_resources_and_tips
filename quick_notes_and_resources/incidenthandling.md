@@ -4,6 +4,6 @@
     Preparation   < ---------------
     Isolation & Containment       |
     Eradication				   feedback
-    Recovery					  |
+    Recovery		              |
  	Lessons Learned  --------------
  
