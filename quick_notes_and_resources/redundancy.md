@@ -1,4 +1,14 @@
-# Comparison of RAID Disks 
+# Redundancy
+
+| Entity | Solution | 
+|------- | -------- |  
+| Disk | RAID | 
+| Server | Failover Cluster | 
+| Power | UPS/Generators | 
+| Site | hot/warm/cold | 
+
+
+## Comparison of RAID Disks 
 
 Note that +(plus) refers to "exists", and R is abbreviation of RAID.
 
@@ -11,3 +21,12 @@ Note that +(plus) refers to "exists", and R is abbreviation of RAID.
 |Parity |  | | + | + |  |
 |num of disks can be failed | 0 | 1 | 1 | 2 | 1 | 
 |Fault Tolerance |  | + | + | + | + |
+
+
+## Failover Cluster
+* # of servers: 2 or more servers
+* types: 
+	* active/passive: when active server is down, inactive server takes over  
+	* active/active
+* load balancers (hw/sw) + Virtual IP
+
