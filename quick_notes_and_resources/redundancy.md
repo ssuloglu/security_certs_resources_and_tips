@@ -24,7 +24,7 @@ Note that +(plus) refers to "exists", and R is abbreviation of RAID.
 
 
 ## Failover Cluster
-* # of servers: 2 or more servers
+* number of servers: 2 or more servers
 * types: 
 	* active/passive: when active server is down, inactive server takes over  
 	* active/active

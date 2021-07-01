@@ -3,7 +3,7 @@
 ## Steps
     Preparation   < ---------------
     Isolation & Containment       |
-    Eradication				   feedback
-    Recovery					  |
+    Eradication               feedback
+    Recovery                      |
  	Lessons Learned  --------------
  
